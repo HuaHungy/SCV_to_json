@@ -1,4 +1,4 @@
-# subtask_test
+# SCV_to_json
 
 小工具集合：将标注 CSV 转为按 `episode_id` 聚合的 JSON，并批量检查 JSON 中 `videos` 路径的存在性。
 
